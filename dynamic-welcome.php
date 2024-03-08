@@ -19,7 +19,7 @@ if (!defined('ABSPATH')) {
  */
 function dwp_register_greeting_shortcode()
 {
-  add_shortcode('dynamic_welcome', 'dwp_display_greeting_message');
+  add_shortcode('greeting_message', 'dwp_display_greeting_message');
 }
 
 add_action('init', 'dwp_register_greeting_shortcode');
