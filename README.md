@@ -28,6 +28,9 @@ Use the `[dynamic_welcome]` shortcode in your WordPress posts or pages to displa
 - If a user is logged in, the plugin will greet them with "Good Morning/Afternoon/Evening,<em>[User's Display Name]!</em>" based on the time of day.
 - If a user is not logged in, the plugin will display "Welcome, Guest!".
 
+## Future Enhancements
+- Internationalization (i18n): Make the plugin translatable so users can display greetings in their preferred language.
+
 ## Notes
 - Requires WordPress version 4.7 or higher.
 - Clear any caching plugins after installing or updating the plugin.
