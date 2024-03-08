@@ -1,6 +1,6 @@
 # Dynamic Welcome
 
-This plugin personalizes your website's greeting message based on the user and the time of day.
+This plugin personalizes your website's greeting message based on the user login status and the time of day.
 
 ## Features:
 
